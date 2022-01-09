@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spaDieu1
 - 👀 I’m interested in  climate modeling, artificial  intelligence and  computational mathematics pdes and numerical analysis
 - 🌱 I’m currently master of science student in  applied mathematics
-- 💞️ I’m looking to collaborate on any projet involving mathemati
+- 💞️ I’m looking to collaborate on any projet involving mathematics and computer science.
 - 📫 How to reach me email adress regisaolo@gmail.com
 
 <!---
